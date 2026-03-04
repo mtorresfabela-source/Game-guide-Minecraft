@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Pickaxe",
+    "type": "Tool",
+    "craftable": true,
+    "recipe": ["Wood Plank", "Wood Plank", "Wood Plank", "Stick", "Stick"]
+  }
+]
