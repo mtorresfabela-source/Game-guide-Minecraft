@@ -51,6 +51,74 @@ Authentication: OAuth/Email/Discord login?
 Hosting: Vercel/AWS/DigitalOcean?
 
 ## Project Structure (ip)
+lib
+ ├── core/
+ │   ├── theme/
+ │   ├── constants/
+ │   └── utils/
+ │
+ ├── database/
+ │   ├──
+ │   ├──
+ │   └──
+
+lib/features/
+ ├── auth/
+ │   ├── login_screen.dart
+ │   ├── register_screen.dart
+ │   └── auth_service.dart
+ │
+ ├── guides/
+ │   ├── guide_model.dart
+ │   ├── guide_list_screen.dart
+ │   ├── guide_detail_screen.dart
+ │   └── guide_repository.dart
+ │
+ ├── community/
+ │   ├── post_model.dart
+ │   ├── feed_screen.dart
+ │   ├── create_post_screen.dart
+ │   └── comment_widget.dart
+ │
+ ├── profile/
+ │   ├── profile_screen.dart
+ │   └── user_model.dart
+ │
+ └── chat/
+     ├── chat_screen.dart
+     └── message_model.dart
+
+ │
+ ├── models/
+ │   ├──
+ │   ├──
+ │   └──
+ │
+ │
+ ├── routes/
+ │   ├──
+ │   ├──
+ │   └──
+ │
+ │
+ ├── screens/
+ │   ├──
+ │   ├──
+ │   └──
+ │
+ │
+ ├── services/
+ │   ├──
+ │   ├──
+ │   └──
+ │
+ │
+ ├── widgets/
+ │   ├──
+ │   ├──
+ │   └──
+ │
+main.dart
 
 ## Prerequisites (ip)
 1. Node.js (v18+ recommended)
