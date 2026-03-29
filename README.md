@@ -57,6 +57,9 @@ Here, we introduce a companion platform for Minecraft that blends detailed game 
 48) source_span 1.10.2
 49) string_scanner 1.4.1
 50) term_glyph 1.2.2
+51) firebase_functions
+52) open ai
+53) firebase-admin
 
 **Our companion app supports Minecraft players across:**
 1. Survival
