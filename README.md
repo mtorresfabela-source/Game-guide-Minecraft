@@ -1,6 +1,8 @@
 # CraftHub (Working Title)
 A community-driven companion application serving as a guide for players who do not consider themselves technically-saavy. It combines structured guides in multiple formats with additional social features inspired by Amino and Discord.
 
+Location: C:\Users\user\develop\game_companion
+
 ## Overview
 Here, we introduce a companion platform for Minecraft that blends detailed game guides, tutorials and walkthroughs with interactive community features, including posts, chats, profiles and curated content feeds all in one safe, convenient location.
 
