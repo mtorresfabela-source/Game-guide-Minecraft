@@ -6,30 +6,20 @@ Location: C:\Users\user\develop\game_companion
 ## Overview
 Here, we introduce a companion platform for Minecraft that blends detailed game guides, tutorials and walkthroughs with interactive community features, including posts, chats, profiles and curated content feeds all in one safe, convenient location.
 
+## NOTES
+1. To run without Docker: supabase functions deploy moderate-message --use-api
+
 ## Dependencies
 1) Dart SDK 3.11.1
 2) Node.js 24.14.1
 3) Flutter SDK 3.41.3
 4) Supabase 2.84.2
-5) cloud_firestore 6.2.0
-6) cloud_firestore_platform_interface 7.1.0
-7) flutterfire_internals 1.3.68
-8) cloud_firestore_web 5.2.0
 9) cupertino_icons 1.0.9
-10) firebase_auth 6.3.0
-11) firebase_auth_platform_interface 8.1.8
-12) firebase_auth_web 6.1.4
 13) http_parser 4.1.2
 14) typed_data 1.4.0
-15) firebase_core 4.6.0
-16) firebase_core_platform_interface 6.0.3
 17) plugin_platform_interface 2.1.8
-18) firebase_core_web 3.5.1
 19) flutter_web_plugins 0.0.0
 20) web 1.1.1
-21) firebase_storage 13.2.0
-22) firebase_storage_platform_interface 5.2.19
-23) firebase_storage_web 3.11.4
 24) async 2.13.1
 25) http 1.6.0
 26) mime 2.0.0
@@ -58,9 +48,6 @@ Here, we introduce a companion platform for Minecraft that blends detailed game 
 49) source_span 1.10.2
 50) string_scanner 1.4.1
 51) term_glyph 1.2.2
-52) firebase_functions
-53) open ai
-54) firebase-admin
 
 **Our companion app supports Minecraft players across:**
 1. Survival
