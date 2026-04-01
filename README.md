@@ -48,6 +48,7 @@ Here, we introduce a companion platform for Minecraft that blends detailed game 
 49) source_span 1.10.2
 50) string_scanner 1.4.1
 51) term_glyph 1.2.2
+52) builder.io 
 
 **Our companion app supports Minecraft players across:**
 1. Survival
